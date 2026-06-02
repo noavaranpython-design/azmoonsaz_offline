@@ -1,0 +1,4 @@
+body { font-family: sans-serif; padding: 20px; }
+.page { display: none; }
+.page.active { display: block; }
+header { border-bottom: 1px solid #ccc; margin-bottom: 20px; }

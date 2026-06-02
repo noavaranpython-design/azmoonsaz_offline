@@ -1,0 +1,54 @@
+﻿{
+  "meta": {
+    "version": 1,
+    "title": "آزمون هوش و دانش عمومی",
+    "duration": 2
+  },
+  "items": [
+    {
+      "id": "1",
+      "question": {
+        "text": "کدام گزینه پایتخت ایران است؟",
+        "image": null
+      },
+      "choices": [
+        { "text": "اصفهان", "image": null },
+        { "text": "تهران", "image": null },
+        { "text": "شیراز", "image": null },
+        { "text": "مشهد", "image": null }
+      ],
+      "answerIndex": 1,
+      "explain": { "text": "تهران از سال ۱۷۸۶ پایتخت ایران است.", "image": null }
+    },
+    {
+      "id": "2",
+      "question": {
+        "text": "به تصویر زیر نگاه کنید؛ این مکان متعلق به کدام کشور است؟",
+        "image": "img/landmarks.png"
+      },
+      "choices": [
+        { "text": "فرانسه", "image": "img/flag_france.png" },
+        { "text": "ایتالیا", "image": "img/flag_italy.png" },
+        { "text": "آلمان", "image": "img/flag_germany.png" },
+        { "text": "اسپانیا", "image": "img/flag_spain.png" }
+      ],
+      "answerIndex": 0,
+      "explain": { "text": "تصویر مربوط به برج ایفل در پاریس است.", "image": null }
+    },
+    {
+      "id": "3",
+      "question": {
+        "text": "حاصل عبارت 5 + 5 چقدر است؟",
+        "image": null
+      },
+      "choices": [
+        { "text": "8", "image": null },
+        { "text": "9", "image": null },
+        { "text": "10", "image": null },
+        { "text": "12", "image": null }
+      ],
+      "answerIndex": 2,
+      "explain": { "text": "جمع ساده اعداد.", "image": null }
+    }
+  ]
+}
